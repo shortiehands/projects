@@ -1,1 +1,1 @@
-These are projects and ss that I've done during my time at MITB.
+These are projects that I've done during my time at MITB.
